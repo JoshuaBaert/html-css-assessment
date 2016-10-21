@@ -1,0 +1,12 @@
+.tab-nav {
+	height: 10vh;
+	width: 100vw;
+	padding: 0 3vw;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+}
+.mob-nav {
+	display: none;
+}
